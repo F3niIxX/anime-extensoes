@@ -816,10 +816,10 @@
   {
     "name": "Aniyomi: Torbox",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torbox",
-    "apk": "aniyomi-all.torbox-v14.1.apk",
+    "apk": "aniyomi-all.torbox-v17.2-release",
     "lang": "all",
     "code": 1,
-    "version": "14.1",
+    "version": "17.2",
     "nsfw": 0,
     "sources": [
       {
