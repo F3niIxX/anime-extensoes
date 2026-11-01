@@ -288,7 +288,7 @@
   {
     "name": "Aniyomi: Jellyfin",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.jellyfin",
-    "apk": "aniyomi-all.jellyfin-v17.2-release",
+    "apk": "aniyomi-all.jellyfin-v17.2-release.apk",
     "lang": "all",
     "code": 32,
     "version": "17.2",
@@ -748,7 +748,7 @@
   {
     "name": "Aniyomi: Stremio",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.stremio",
-    "apk": "aniyomi-all.stremio-v17.2-release",
+    "apk": "aniyomi-all.stremio-v17.2-release.apk",
     "lang": "all",
     "code": 15,
     "version": "17.2",
@@ -816,7 +816,7 @@
   {
     "name": "Aniyomi: Torbox",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torbox",
-    "apk": "aniyomi-all.torbox-v17.2-release",
+    "apk": "aniyomi-all.torbox-v17.2-release.apk",
     "lang": "all",
     "code": 1,
     "version": "17.2",
